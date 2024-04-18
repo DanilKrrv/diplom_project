@@ -4,4 +4,4 @@
 ### Руководитель 
 Сальников Сергей Юрьевич
 ### Ссылки на репозитории
-Мобильное приложение - https://github.com/DanilKrrv/vkr-mobile
+Мобильное приложение - https://github.com/DanilKrrv/vkr-mobile (Изменено)
